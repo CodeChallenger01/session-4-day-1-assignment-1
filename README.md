@@ -14,6 +14,7 @@ This assignment contains session-4-day-1-assignment-1
     
 **OUTPUT**    
 **sbt compile & sbt run**
-![Screenshot from 2023-03-29 21-56-54](https://user-images.githubusercontent.com/124979629/228605580-dc0e2d02-2eb8-455f-8bf1-7d4abe4a2946.png)    
+![Screenshot from 2023-03-29 21-56-54](https://user-images.githubusercontent.com/124979629/228605580-dc0e2d02-2eb8-455f-8bf1-7d4abe4a2946.png) 
+
 **sbt test**
 ![Screenshot from 2023-03-29 21-57-07](https://user-images.githubusercontent.com/124979629/228605622-199d15fc-287c-4572-838b-26358b750f20.png)
